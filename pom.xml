@@ -19,12 +19,6 @@
             <artifactId>junit</artifactId>
             <version>${junit-version}</version>
         </dependency>
-
-        <dependency>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <version>${maven-compiler-version}</version>
-        </dependency>
     </dependencies>
 
     <build>
