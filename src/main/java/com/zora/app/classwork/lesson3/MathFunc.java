@@ -4,7 +4,7 @@ package com.zora.app.classwork.lesson3;
  * Created by Катерина on 15.03.2017.
  */
 public class MathFunc {
-    public int multiply(int a, int b) {
+    public static int multiply(int a, int b) {
         return a * b;
     }
 
@@ -16,7 +16,7 @@ public class MathFunc {
         return a - b;
     }
 
-    public int division(int a, int b) {
+    public static int division(int a, int b) {
         return a / b;
     }
 }
