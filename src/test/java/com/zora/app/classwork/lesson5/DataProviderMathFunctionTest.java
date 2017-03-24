@@ -32,5 +32,4 @@ public class DataProviderMathFunctionTest {
         System.out.println("actual " + MathFunc.division(argA, argB));
         System.out.println("expected " + expOut);
     }
-
 }
