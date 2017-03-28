@@ -5,7 +5,7 @@ package com.zora.runners.lesson6;
  */
 public class ArrayRunner {
     public static void main(String[] args) {
-        int[] arrayInt = new int[2];//create masive
+        int[] arrayInt = new int[2];//create massive
         arrayInt[0] = 1;
         arrayInt[1] = 5;
         System.out.println(arrayInt);
